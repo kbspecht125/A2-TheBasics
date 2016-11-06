@@ -1,0 +1,16 @@
+/*Style your own assignment! This is fun! */
+div{color:red;}
+span{color:green; text-transform: uppercase;}
+span:hover {color: #FF00FF;}
+.header{color:blue; text-align: center;}
+#opening{
+	color:orange; text-decoration: underline;
+	position: relative; 
+   	top: -10px; 
+   	left: 60px;
+   	font-size: 32;
+}
+h1{font-size: 44;}
+.content{font-style: italic;}
+.tagline{font-size: 32;}
+.content.tagline{text-decoration: underline;}
